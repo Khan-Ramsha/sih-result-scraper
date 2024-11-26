@@ -1,0 +1,1 @@
+This repo is the implementation of scraping the website of SIH for collecting the result. 
